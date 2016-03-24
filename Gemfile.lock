@@ -151,7 +151,7 @@ GEM
 
 PLATFORMS
   ruby
-  
+  x86-mingw32
 
 DEPENDENCIES
   acts_as_votable (~> 0.10.0)
