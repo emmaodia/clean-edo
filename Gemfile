@@ -19,3 +19,4 @@ gem 'pg'
 gem 'tzinfo-data'
 gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'rails_12factor', group: :production
+gem 'puma', '~> 3.2'
