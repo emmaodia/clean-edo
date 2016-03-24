@@ -149,7 +149,9 @@ GEM
     warden (1.2.6)
       rack (>= 1.0)
 
-
+PLATFORMS
+  ruby
+  
 
 DEPENDENCIES
   acts_as_votable (~> 0.10.0)
